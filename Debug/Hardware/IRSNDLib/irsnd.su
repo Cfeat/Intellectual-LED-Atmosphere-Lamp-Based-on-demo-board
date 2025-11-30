@@ -1,0 +1,9 @@
+../Hardware/IRSNDLib/irsnd.c:550:1:irsnd_on	8	static
+../Hardware/IRSNDLib/irsnd.c:626:1:irsnd_off	8	static
+../Hardware/IRSNDLib/irsnd.c:711:1:irsnd_set_freq	64	static
+../Hardware/IRSNDLib/irsnd.c:846:1:irsnd_init	8	static
+../Hardware/IRSNDLib/irsnd.c:989:1:irsnd_is_busy	4	static
+../Hardware/IRSNDLib/irsnd.c:995:1:bitsrevervse	24	static
+../Hardware/IRSNDLib/irsnd.c:1018:1:irsnd_send_data	32	static
+../Hardware/IRSNDLib/irsnd.c:1682:1:irsnd_stop	4	static
+../Hardware/IRSNDLib/irsnd.c:1693:1:irsnd_ISR	16	static

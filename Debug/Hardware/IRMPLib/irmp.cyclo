@@ -1,0 +1,4 @@
+../Hardware/IRMPLib/irmp.c:2333:1:irmp_init	1
+../Hardware/IRMPLib/irmp.c:2414:1:irmp_get_data	11
+../Hardware/IRMPLib/irmp.c:2717:1:irmp_store_bit	17
+../Hardware/IRMPLib/irmp.c:2987:1:irmp_ISR	89

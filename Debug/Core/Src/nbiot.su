@@ -1,0 +1,6 @@
+../Core/Src/nbiot.c:8:8:nbiot_reboot	40	static
+../Core/Src/nbiot.c:70:8:nbiot_get_signl_val	56	static
+../Core/Src/nbiot.c:129:8:nbiot_check_reg	40	static
+../Core/Src/nbiot.c:191:8:nbiot_get_nuestats	96	static
+../Core/Src/nbiot.c:308:5:nbiot_parse_NNMI	40	static
+../Core/Src/nbiot.c:339:5:nbiot_parse_ct_msg	24	static
